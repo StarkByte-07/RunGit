@@ -1,0 +1,6 @@
+{
+  "name": "RunGit",
+  "description": "GitHub Repository Runner — Run your GitHub projects instantly in a clean developer interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
